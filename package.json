@@ -13,5 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "jsonfile": "^2.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcampas/static.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fcampas/static/issues"
+  },
+  "homepage": "https://github.com/fcampas/static#readme"
 }
