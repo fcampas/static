@@ -1,0 +1,17 @@
+{
+  "name": "ekit.static",
+  "version": "0.0.1",
+  "description": "Static structures for EKit",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "fcampas@kindlepublishing.com",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.3.0"
+  }
+}

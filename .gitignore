@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.npmignore
+test/
+make/
+node_modules/
+website/
